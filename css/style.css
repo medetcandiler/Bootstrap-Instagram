@@ -49,5 +49,8 @@ input.empty {
   color: lightgrey;
 }
 .middlearea{
-  max-height: 200px !important;
+  max-height: 200px !important  ;
+}
+body{
+  background-color: #FAFAFA;
 }
