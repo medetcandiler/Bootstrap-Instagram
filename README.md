@@ -5,8 +5,11 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 
 ---
 
-**Proje İçerisinde Yer Alan Çalışmalar**
-* Bootstrap 12 lik grid sistemi çalışmalarıyla tasarım çalışmaları
+[Patika.dev profilim](https://app.patika.dev/meddo)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/medetcandiler)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/medetdiler/)
 ---
 Proje örnek görsel:
 
@@ -17,11 +20,7 @@ Proje örnek görsel:
 ## Hazırlayan
 **Medetcan Diler**
 
-[Patika.dev profilim](https://app.patika.dev/meddo)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/medetcandiler)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/medetdiler/)
 
 
 ---
